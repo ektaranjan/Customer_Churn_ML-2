@@ -178,5 +178,4 @@ See `PROJECT_GUIDE.md` for the full step-by-step (including SQL and Power BI).
 - Incorporate support-ticket text via NLP
 - A/B test retention offers and measure actual ROI against model predictions
 
-## Author
-[Your Name] — MCA Student
+
